@@ -1,0 +1,59 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: aqua;
+}
+.heading{
+    text-align: center;
+    color: red;
+}
+#main{
+    margin-left: 250px;
+    width: 800px;
+    height: 700px;
+    border: 5px,black,solid;
+}
+.information{
+    display: inline;
+}
+.inobject{
+    font-family: Arial;
+}
+.outinformation{
+    margin-left: 15px;
+}
+.ininformation{
+    margin-left: 15px;
+}
+.outobject{
+margin-left: 15px;
+}
+.inobject{
+    margin-left: 15px;
+}
+.outeducation{
+    margin-left: 15px;
+}
+.ineducation{
+    margin-left: 15px;
+}
+.outskill{
+    margin-left: 15px;
+}
+.inskill{
+    margin-left: 15px;
+}
+.outlanguge{
+    margin-left: 15px;
+}
+.inlanguge{
+    margin-left: 15px;
+}
+.outhobbies{
+    margin-left: 15px;
+}
+.inhobbies{
+    margin-left: 15px;
+}
